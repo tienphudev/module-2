@@ -140,7 +140,6 @@ public class sothanhchu {
 
 
         int hundredNumber = number / 100;
-//        int tenNumbers1=number-100;
         int tenNumbers = number % 100;
 
         int tenNumbers1 = tenNumbers / 10;
@@ -278,6 +277,6 @@ public class sothanhchu {
 
 
         }
-        System.out.println(resultHundredNumber +" " + resultTenNumbers1 + " " + resultNumberses);
+        System.out.println(resultHundredNumber + " " + resultTenNumbers1 + " " + resultNumberses);
     }
 }
