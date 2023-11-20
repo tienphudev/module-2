@@ -4,21 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6ed2f0f-b844-416c-bb44-fc3eb2cd3b09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hienthihinh/src/hienthihinh.java" afterDir="false" />
+    <list default="true" id="5e907d81-2b1e-457b-9fb0-b963f30b8d63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../NumberArray/src/NumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/src/alo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/src/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMap/src/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCaculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYearCaculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/daonguocmang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentArray/src/StudentArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../daonguocmang/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doitiente/src/Doitiente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../doitiente/src/Doitiente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2Xy1kUC9ZwtTEg33ChI7cbf0Gre" />
+  <component name="ProjectId" id="2YFXFd98VlJ476zyLY9BxeevpYJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +58,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -37,31 +67,45 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6ed2f0f-b844-416c-bb44-fc3eb2cd3b09" name="Changes" comment="" />
-      <created>1699586650738</created>
+      <changelist id="5e907d81-2b1e-457b-9fb0-b963f30b8d63" name="Changes" comment="" />
+      <created>1700122199736</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699586650738</updated>
-      <workItem from="1699586651820" duration="338000" />
-      <workItem from="1699587016130" duration="85000" />
+      <updated>1700122199736</updated>
+      <workItem from="1700122200731" duration="4549000" />
+      <workItem from="1700127260750" duration="88000" />
+      <workItem from="1700127391258" duration="113000" />
+      <workItem from="1700127532712" duration="2534000" />
+      <workItem from="1700138590620" duration="570000" />
+      <workItem from="1700139183397" duration="31000" />
+      <workItem from="1700186473629" duration="984000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/Main.java" line="2">
+        <watch expression="i" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
   </component>
 </project>
