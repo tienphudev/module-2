@@ -1,0 +1,20 @@
+Tạo Github trên trang web
+Tạo thư mục, mở terminital
+Git innit:Khởi tạo một repository
+Git remote add origin http(để kết nối tới Remote Repository)
+Git add:để đưa file README.md vào trong chỉ mục của Git.
+Git commit -m (lưu thay đổi)
+git push origin master
+git clone http
+For vs id sẽ làm cho người dùng sử đụng tốt hơn
+js-dynamic typing
+java- stautu typing
+trình biên dịch: .java sang .class(dịch được đa nền tảng)
+trình thông dịch: javascript sang mã js đã thực thi
+chuỗi nguyên mẫu(template string): var name="Tèo"
+                                   var greeting.document="hello Tèo"
+a++ khác ++a (cộng trước gán sau)
+             (gán dau cộng trc)
+ctrl+/(không chạy)
+imageClick()
+checkset
