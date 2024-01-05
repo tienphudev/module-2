@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="208b0435-1309-467e-8be9-aed776bfe5db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CaculationExample/src/CaculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../File/ka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IllegalTriangleException/src/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest 1/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest 1/src/FictionBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest 1/src/ProgramingBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest4/src/Manager/MaterialManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest4/src/model/CrispyFlour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest4/src/model/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest4/src/model/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniTest4/src/model/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minitest3/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minitest3/src/FullTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minitest3/src/PartTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projectbook/src/Controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projectbook/src/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projectbook/src/model/FictionBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projectbook/src/model/ProgrammingBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadFileExample/src/ReafFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/DemoThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dahinh/src/Cha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dahinh/src/ConGai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dahinh/src/ConTrai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TongGiamDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tachhang/src/Caculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tachhang/src/CaculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle/src/Cylinder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2aW6hfQAvmth8HcxUrKdI9rsMll" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="208b0435-1309-467e-8be9-aed776bfe5db" name="Changes" comment="" />
+      <created>1704422111224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704422111224</updated>
+      <workItem from="1704422112380" duration="2274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
